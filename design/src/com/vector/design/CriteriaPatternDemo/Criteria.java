@@ -6,5 +6,5 @@ import java.util.List;
  * Created by DCITS-cs on 2018/2/2.
  */
 public interface Criteria {
-    public List<Person> meetCirteria(List<Person> persons);
+    public List<Person> meetCriteria(List<Person> persons);
 }
